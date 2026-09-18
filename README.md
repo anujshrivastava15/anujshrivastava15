@@ -2,8 +2,6 @@
 
 I sit with customer teams and help them use AI next to the security tools they already run. I work the messy middle: many vendors, responsible use, and cyber plus AI in the same room. I leave a path they can run, not a slide.
 
-**IBM Client Engineering** · Hyderabad, India · [addanuj@gmail.com](mailto:addanuj@gmail.com)
-
 ## What a recruiter should open
 
 | Project | Why it matters |
