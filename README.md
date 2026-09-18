@@ -1,6 +1,6 @@
 # Anuj Shrivastava
 
-I sit with customer teams and help them use AI next to the security tools they already run. I work the messy middle: many vendors, responsible use, and cyber plus AI in the same room. I leave a path they can run, not a slide.
+I sit with customer teams and help them use AI with the security tools they already have. Customers run many vendors. I keep the AI use safe, and I keep security and AI together. I leave a working setup, not a slide.
 
 ## What a recruiter should open
 
@@ -14,4 +14,4 @@ I sit with customer teams and help them use AI next to the security tools they a
 
 ## How I work
 
-`customer delivery` · `responsible AI` · `cyber + AI` · `multi-vendor` · `Python` · `security APIs`
+I write Python. I work with security APIs. I sit with the customer until the setup runs.
