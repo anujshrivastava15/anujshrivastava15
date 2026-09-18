@@ -1,12 +1,8 @@
 # Anuj Shrivastava
 
-<p align="left">
-  <img src="anuj-shrivastava.png" width="140" alt="Anuj Shrivastava">
-</p>
-
 I build production MCP servers and multi-agent workflows for enterprise security. I write Python. I sit with customer security teams, then I leave a running tool.
 
-**IBM Client Engineering** · Hyderabad, India · [anuj34822@gmail.com](mailto:anuj34822@gmail.com)
+**IBM Client Engineering** · Hyderabad, India · [addanuj@gmail.com](mailto:addanuj@gmail.com)
 
 ## Open these first
 
